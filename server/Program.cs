@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.AspNetCore.Hosting;
 
-namespace aspnetcoreapp
+namespace anemone
 {
     public class Program
     {

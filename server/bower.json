@@ -1,0 +1,22 @@
+{
+  "name": "anemone",
+  "homepage": "https://github.com/skurik/anemone",
+  "authors": [
+    "Standa Kurik <standa.kurik@gmail.com>"
+  ],
+  "description": "Anemone server",  
+  "keywords": [
+    "anemone"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.3"
+  }
+}
